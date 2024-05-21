@@ -9,7 +9,7 @@ const Sidebar= ()=>{
     if(!isMenuOpen) return null;
     
     return (
-        <div className="p-4 shadow-lg w-60 bg-black text-white h-full ">
+        <div className="p-4 shadow-lg  w-80 h-full ">
         <div className="p-4 space-y-2.5">
             <h1>
                 <Link to="/">Home</Link>

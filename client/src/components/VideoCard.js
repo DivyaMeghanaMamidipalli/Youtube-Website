@@ -28,7 +28,7 @@ const VideoCard = ({info}) => {
     }
   const timeDifference = getTimeDifference(publishedAt);
   return (
-    <div className="p-2 m-2 w-80 shadow-lg rounded-xl bg-black text-white">
+    <div className="p-2 m-2 w-80 h-50 shadow-lg rounded-xl ">
       <img 
         alt="thumbnail"
         src={thumbnails.medium.url}

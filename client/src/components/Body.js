@@ -4,7 +4,7 @@ import Videos from "./Videos";
 
 const Body= ()=>{
     return (
-        <div className='bg-black p-4 w-full h-screen'>
+        <div className=' p-4 w-70% h-screen'>
             <ButtonList/>
             <Videos/>
         </div>
