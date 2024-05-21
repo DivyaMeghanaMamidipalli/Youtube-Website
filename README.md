@@ -1,15 +1,15 @@
-#Youtube Website
+# Youtube Website
 
-##Overview
+## Overview
 Youtube- Website is a user-friendly video streaming platform replicating the core functionalities of YouTube. This project serves as a great oppurtunity to learn the modern web development technologies and practices. 
 
 
-##Features Implemented 
+## Features Implemented 
 - Browse videos using the left navigation bar video categories
 - Search for videos using the search bar
 - Play videos with full controls, just like YouTube
 
-##Technologies Used
+## Technologies Used
 <ul>
   <li> React js : Frontend library for building user interfaces.</li>
   <li> Tailwind CSS: Utility-first CSS framework for styling.</li>
@@ -17,7 +17,7 @@ Youtube- Website is a user-friendly video streaming platform replicating the cor
   <li> Redux Toolkit: State management for maintaining global component stores.</li>
 </ul>
 
-##Gettign started 
+## Getting started 
 Installation steps
 <ol>
   <li>Clone this repository.</li>
